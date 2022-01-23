@@ -1,50 +1,20 @@
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-ExtraLight.woff2') format('woff2'),
-        url('web/Pretension-ExtraLight.woff') format('woff'),
-        url('Pretension-ExtraLight.ttf') format('truetype');
-    font-weight: 200;
+    src: url('web/Pretension-HairLine.woff2') format('woff2'),
+        url('web/Pretension-HairLine.woff') format('woff'),
+        url('ttf/Pretension-HairLine.ttf') format('truetype');
+    font-weight: 1;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-Black.woff2') format('woff2'),
-        url('web/Pretension-Black.woff') format('woff'),
-        url('Pretension-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-Medium.woff2') format('woff2'),
-        url('web/Pretension-Medium.woff') format('woff'),
-        url('web/Pretension-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-Light.woff2') format('woff2'),
-        url('web/Pretension-Light.woff') format('woff'),
-        url('Pretension-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-SemiBold.woff2') format('woff2'),
-        url('web/Pretension-SemiBold.woff') format('woff'),
-        url('Pretension-SemiBold.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
+    src: url('web/Pretension-HairLineItalic.woff2') format('woff2'),
+        url('web/Pretension-HairLineItalic.woff') format('woff'),
+        url('ttf/Pretension-HairLineItalic.ttf') format('truetype');
+    font-weight: 1;
+    font-style: italic;
     font-display: swap;
 }
 
@@ -52,7 +22,7 @@
     font-family: 'Pretension';
     src: url('web/Pretension-Thin.woff2') format('woff2'),
         url('web/Pretension-Thin.woff') format('woff'),
-        url('Pretension-Thin.ttf') format('truetype');
+        url('ttf/Pretension-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -60,21 +30,51 @@
 
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-Bold.woff2') format('woff2'),
-        url('web/Pretension-Bold.woff') format('woff'),
-        url('Pretension-Bold.ttf') format('truetype');
-    font-weight: bold;
+    src: url('web/Pretension-ThinItalic.woff2') format('woff2'),
+        url('web/Pretension-ThinItalic.woff') format('woff'),
+        url('ttf/Pretension-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-ExtraLight.woff2') format('woff2'),
+        url('web/Pretension-ExtraLight.woff') format('woff'),
+        url('ttf/Pretension-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-ExtraBold.woff2') format('woff2'),
-        url('web/Pretension-ExtraBold.woff') format('woff'),
-        url('Pretension-ExtraBold.ttf') format('truetype');
-    font-weight: bold;
+    src: url('web/Pretension-ExtraLightItalic.woff2') format('woff2'),
+        url('web/Pretension-ExtraLightItalic.woff') format('woff'),
+        url('ttf/Pretension-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-Light.woff2') format('woff2'),
+        url('web/Pretension-Light.woff') format('woff'),
+        url('ttf/Pretension-Light.ttf') format('truetype');
+    font-weight: 300;
     font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-LightItalic.woff2') format('woff2'),
+        url('web/Pretension-LightItalic.woff') format('woff'),
+        url('ttf/Pretension-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
     font-display: swap;
 }
 
@@ -82,8 +82,108 @@
     font-family: 'Pretension';
     src: url('web/Pretension-Regular.woff2') format('woff2'),
         url('web/Pretension-Regular.woff') format('woff'),
-        url('Pretension-Regular.ttf') format('truetype');
+        url('ttf/Pretension-Regular.ttf') format('truetype');
     font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-Italic.woff2') format('woff2'),
+        url('web/Pretension-Italic.woff') format('woff'),
+        url('ttf/Pretension-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-Medium.woff2') format('woff2'),
+        url('web/Pretension-Medium.woff') format('woff'),
+        url('ttf/Pretension-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-MediumItalic.woff2') format('woff2'),
+        url('web/Pretension-MediumItalic.woff') format('woff'),
+        url('ttf/Pretension-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-SemiBold.woff2') format('woff2'),
+        url('web/Pretension-SemiBold.woff') format('woff'),
+        url('ttf/Pretension-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-SemiBoldItalic.woff2') format('woff2'),
+        url('web/Pretension-SemiBoldItalic.woff') format('woff'),
+        url('ttf/Pretension-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-Bold.woff2') format('woff2'),
+        url('web/Pretension-Bold.woff') format('woff'),
+        url('ttf/Pretension-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-BoldItalic.woff2') format('woff2'),
+        url('web/Pretension-BoldItalic.woff') format('woff'),
+        url('ttf/Pretension-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-ExtraBold.woff2') format('woff2'),
+        url('web/Pretension-ExtraBold.woff') format('woff'),
+        url('ttf/Pretension-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/Pretension-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/Pretension-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretension';
+    src: url('web/Pretension-Black.woff2') format('woff2'),
+        url('web/Pretension-Black.woff') format('woff'),
+        url('ttf/Pretension-Black.ttf') format('truetype');
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
@@ -92,7 +192,7 @@
     font-family: 'Pretension';
     src: url('web/Pretension-BlackItalic.woff2') format('woff2'),
         url('web/Pretension-BlackItalic.woff') format('woff'),
-        url('Pretension-BlackItalic.ttf') format('truetype');
+        url('ttf/Pretension-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -100,81 +200,20 @@
 
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-BoldItalic.woff2') format('woff2'),
-        url('web/Pretension-BoldItalic.woff') format('woff'),
-        url('Pretension-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
+    src: url('web/Pretension-ExtraBlack.woff2') format('woff2'),
+        url('web/Pretension-ExtraBlack.woff') format('woff'),
+        url('ttf/Pretension-ExtraBlack.ttf') format('truetype');
+    font-weight: 1000;
+    font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-ExtraBoldItalic.woff2') format('woff2'),
-        url('web/Pretension-ExtraBoldItalic.woff') format('woff'),
-        url('Pretension-ExtraBoldItalic.ttf') format('truetype');
-    font-weight: bold;
+    src: url('web/Pretension-ExtraBlackItalic.woff2') format('woff2'),
+        url('web/Pretension-ExtraBlackItalic.woff') format('woff'),
+        url('ttf/Pretension-ExtraBlackItalic.ttf') format('truetype');
+    font-weight: 1000;
     font-style: italic;
     font-display: swap;
 }
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-ExtraLightItalic.woff2') format('woff2'),
-        url('web/Pretension-ExtraLightItalic.woff') format('woff'),
-        url('Pretension-ExtraLightItalic.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-Italic.woff2') format('woff2'),
-        url('web/Pretension-Italic.woff') format('woff'),
-        url('Pretension-Italic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-LightItalic.woff2') format('woff2'),
-        url('web/Pretension-LightItalic.woff') format('woff'),
-        url('Pretension-LightItalic.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-MediumItalic.woff2') format('woff2'),
-        url('web/Pretension-MediumItalic.woff') format('woff'),
-        url('Pretension-MediumItalic.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-SemiBoldItalic.woff2') format('woff2'),
-        url('web/Pretension-SemiBoldItalic.woff') format('woff'),
-        url('Pretension-SemiBoldItalic.ttf') format('truetype');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-ThinItalic.woff2') format('woff2'),
-        url('web/Pretension-ThinItalic.woff') format('woff'),
-        url('Pretension-ThinItalic.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-
