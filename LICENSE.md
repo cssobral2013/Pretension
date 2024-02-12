@@ -1,9 +1,6 @@
-Copyright (c) 2021, Kil Hyung-jin (https://github.com/orioncactus/pretendard),
-with Reserved Font Name "Pretendard"
+Copyright (c) 2020-2023 The Inter Project Authors (https://github.com/rsms/inter)
 
-Portions are Copyright (c) 2020 The Inter Project Authors (https://github.com/rsms/inter)
-
-Copyright (c) 2021-2023 The Pretension Project Authors (https://github.com/cssobral2013/Pretension)
+Copyright (c) 2021-2024 The Pretension Project Authors (https://github.com/cssobral2013/Pretension)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

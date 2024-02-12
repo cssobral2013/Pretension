@@ -1,8 +1,9 @@
-Is a LGC-only version of: https://github.com/orioncactus/pretendard
-
+Is developed from https://github.com/rsms/inter/
 Additional changes include:
 
-- Expanded from 9 to 11 weights plus matching italics
-- Address fixes from old version (such as defective Yu-cyrl)
-- Fix missing some glyphs for Greek and Cyrillic
-- Re-work vertical metrics to Latin-only
+- Flattened:
+  - Alternate 1 and open-contour digits;
+  - Tabular figures;
+  - Spurred G and tailed l;
+- Fixes on Ghecyr with descender, tail, and stroke;
+- Fixes on Lslash.
