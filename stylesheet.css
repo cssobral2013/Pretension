@@ -133,7 +133,7 @@
     src: url('web/Pretension-BoldItalic.woff2') format('woff2'),
         url('web/Pretension-BoldItalic.woff') format('woff'),
         url('ttf/Pretension-BoldItalic.ttf') format('truetype');
-    font-weight: 800;
+    font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
@@ -153,7 +153,7 @@
     src: url('web/Pretension-ExtraBoldItalic.woff2') format('woff2'),
         url('web/Pretension-ExtraBoldItalic.woff') format('woff'),
         url('ttf/Pretension-ExtraBoldItalic.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: italic;
     font-display: swap;
 }
