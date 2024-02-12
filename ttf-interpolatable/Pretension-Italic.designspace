@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" tag="wght" default="400" maximum="900" minimum="100">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
+   <map output="800" input="800"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+    <source name="ThinItalic" familyname="Pretension" stylename="Thin Italic" filename="Pretension-ThinItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source name="Italic" familyname="Pretension" stylename="Italic" filename="Pretension-Italic.ttf">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source name="BlackItalic" familyname="Pretension" stylename="Black Italic" filename="Pretension-BlackItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="ThinItalic" familyname="Pretension" stylename="Thin Italic" filename="instances/Pretension-ThinItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance name="ExtraLightItalic" familyname="Pretension" stylename="ExtraLight Italic" filename="instances/Pretension-ExtraLightItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance name="LightItalic" familyname="Pretension" stylename="Light Italic" filename="instances/Pretension-LightItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance name="Italic" familyname="Pretension" stylename="Italic" filename="instances/Pretension-Italic.ttf">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="MediumItalic" familyname="Pretension" stylename="Medium Italic" filename="instances/Pretension-MediumItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBoldItalic" familyname="Pretension" stylename="SemiBold Italic" filename="instances/Pretension-SemiBoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="580"/>
+   </location>
+  </instance>
+  <instance name="BoldItalic" familyname="Pretension" stylename="Bold Italic" filename="instances/Pretension-BoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="660"/>
+   </location>
+  </instance>
+  <instance name="ExtraBoldItalic" familyname="Pretension" stylename="ExtraBold Italic" filename="instances/Pretension-ExtraBoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="780"/>
+   </location>
+  </instance>
+  <instance name="BlackItalic" familyname="Pretension" stylename="Black Italic" filename="instances/Pretension-BlackItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

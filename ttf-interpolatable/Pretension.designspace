@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" tag="wght" default="400" maximum="900" minimum="100">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
+   <map output="800" input="800"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+    <source name="Thin" familyname="Pretension" stylename="Thin" filename="Pretension-Thin.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source name="Regular" familyname="Pretension" stylename="Regular" filename="Pretension-Regular.ttf">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source name="Black" familyname="Pretension" stylename="Black" filename="Pretension-Black.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="Thin" familyname="Pretension" stylename="Thin" filename="instances/Pretension-Thin.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance name="ExtraLight" familyname="Pretension" stylename="ExtraLight" filename="instances/Pretension-ExtraLight.ttf">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance name="Light" familyname="Pretension" stylename="Light" filename="instances/Pretension-Light.ttf">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance name="Regular" familyname="Pretension" stylename="Regular" filename="instances/Pretension-Regular.ttf">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="Medium" familyname="Pretension" stylename="Medium" filename="instances/Pretension-Medium.ttf">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBold" familyname="Pretension" stylename="SemiBold" filename="instances/Pretension-SemiBold.ttf">
+   <location>
+    <dimension name="weight" xvalue="580"/>
+   </location>
+  </instance>
+  <instance name="Bold" familyname="Pretension" stylename="Bold" filename="instances/Pretension-Bold.ttf">
+   <location>
+    <dimension name="weight" xvalue="660"/>
+   </location>
+  </instance>
+  <instance name="ExtraBold" familyname="Pretension" stylename="ExtraBold" filename="instances/Pretension-ExtraBold.ttf">
+   <location>
+    <dimension name="weight" xvalue="780"/>
+   </location>
+  </instance>
+  <instance name="Black" familyname="Pretension" stylename="Black" filename="instances/Pretension-Black.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
