@@ -1,25 +1,5 @@
 @font-face {
     font-family: 'Pretension';
-    src: url('web/Pretension-HairLine.woff2') format('woff2'),
-        url('web/Pretension-HairLine.woff') format('woff'),
-        url('ttf/Pretension-HairLine.ttf') format('truetype');
-    font-weight: 1;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-HairLineItalic.woff2') format('woff2'),
-        url('web/Pretension-HairLineItalic.woff') format('woff'),
-        url('ttf/Pretension-HairLineItalic.ttf') format('truetype');
-    font-weight: 1;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
     src: url('web/Pretension-Thin.woff2') format('woff2'),
         url('web/Pretension-Thin.woff') format('woff'),
         url('ttf/Pretension-Thin.ttf') format('truetype');
@@ -194,26 +174,6 @@
         url('web/Pretension-BlackItalic.woff') format('woff'),
         url('ttf/Pretension-BlackItalic.ttf') format('truetype');
     font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-ExtraBlack.woff2') format('woff2'),
-        url('web/Pretension-ExtraBlack.woff') format('woff'),
-        url('ttf/Pretension-ExtraBlack.ttf') format('truetype');
-    font-weight: 1000;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Pretension';
-    src: url('web/Pretension-ExtraBlackItalic.woff2') format('woff2'),
-        url('web/Pretension-ExtraBlackItalic.woff') format('woff'),
-        url('ttf/Pretension-ExtraBlackItalic.ttf') format('truetype');
-    font-weight: 1000;
     font-style: italic;
     font-display: swap;
 }
