@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1700438797
-ModificationTime: 1707706552
+ModificationTime: 1707762590
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 5
@@ -1149,14 +1149,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "Regular" "4.000;git-a52131595;RSMS;Pretension-Light;featfreeze:tnum,ss01,cv01,cv05,cv10" "" "Version 4.000;git-a52131595" "" "Inter UI and Inter is a trademark of rsms." "rsms, Rasmus Andersson, Cristiano Sobral" "Rasmus Andersson, Cristiano Sobral" "" "https://rsms.me/" "https://rsms.me/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Pretension" "Light"
-OtfFeatName: 'ss08' 1033 "Square quotes"
-OtfFeatName: 'ss07' 1033 "Square punctuation"
-OtfFeatName: 'ss06' 1033 "Squared characters"
-OtfFeatName: 'ss05' 1033 "Circled characters"
-OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
-OtfFeatName: 'ss03' 1033 "Round quotes & commas"
-OtfFeatName: 'ss02' 1033 "Disambiguation"
 OtfFeatName: 'ss01' 1033 "Open digits"
+OtfFeatName: 'ss02' 1033 "Disambiguation"
+OtfFeatName: 'ss03' 1033 "Round quotes & commas"
+OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
+OtfFeatName: 'ss05' 1033 "Circled characters"
+OtfFeatName: 'ss06' 1033 "Squared characters"
+OtfFeatName: 'ss07' 1033 "Square punctuation"
+OtfFeatName: 'ss08' 1033 "Square quotes"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1164,7 +1164,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2622 38 12
+WinInfo: 0 38 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
@@ -32538,7 +32538,7 @@ EndChar
 
 StartChar: one.tf.ss01
 Encoding: 57468 57468 1372
-AltUni2: 000031.ffffffff.0 00e072.ffffffff.0
+AltUni2: 00e072.ffffffff.0 000031.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32568,7 +32568,7 @@ EndChar
 
 StartChar: three.1.tf
 Encoding: 57469 57469 1373
-AltUni2: 000033.ffffffff.0 00e06d.ffffffff.0 00e074.ffffffff.0
+AltUni2: 00e074.ffffffff.0 00e06d.ffffffff.0 000033.ffffffff.0
 Width: 1324
 GlyphClass: 2
 Flags: W
@@ -32582,7 +32582,7 @@ EndChar
 
 StartChar: four.tf.ss01
 Encoding: 57470 57470 1374
-AltUni2: 000034.ffffffff.0 00e075.ffffffff.0
+AltUni2: 00e075.ffffffff.0 000034.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32592,7 +32592,7 @@ EndChar
 
 StartChar: six.tf.ss01
 Encoding: 57471 57471 1375
-AltUni2: 000036.ffffffff.0 00e077.ffffffff.0
+AltUni2: 00e077.ffffffff.0 000036.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32602,7 +32602,7 @@ EndChar
 
 StartChar: nine.tf.ss01
 Encoding: 57472 57472 1376
-AltUni2: 000039.ffffffff.0 00e07a.ffffffff.0
+AltUni2: 00e07a.ffffffff.0 000039.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32912,11 +32912,11 @@ EndChar
 StartChar: hyphen.tf
 Encoding: 61012 61012 1394
 AltUni2: 00002d.ffffffff.0
-Width: 1324
+Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1461 -1 N 1 0 0 1 218 0 2
+Refer: 1461 -1 N 1 0 0 1 56 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" hyphen
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen
 EndChar
@@ -34567,7 +34567,7 @@ Width: 885
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1461 -1 N 1 0 0 1 0 117 3
+Refer: 1461 -1 N 1 0 0 1 -162 117 3
 Kerns2: 1094 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1076 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1074 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'ss06' Style Set 6 in Latin lookup 52 subtable" hyphen.squared
 Substitution2: "'ss05' Style Set 5 in Latin lookup 51 subtable" hyphen.circled
@@ -45564,7 +45564,7 @@ EndChar
 
 StartChar: one.ss01.circled
 Encoding: 57644 57644 1934
-AltUni2: 002460.ffffffff.0 002780.ffffffff.0
+AltUni2: 002780.ffffffff.0 002460.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45576,7 +45576,7 @@ EndChar
 
 StartChar: three.1.circled
 Encoding: 57645 57645 1935
-AltUni2: 002462.ffffffff.0 002782.ffffffff.0
+AltUni2: 002782.ffffffff.0 002462.ffffffff.0
 Width: 2846
 GlyphClass: 2
 Flags: W
@@ -45590,7 +45590,7 @@ EndChar
 
 StartChar: four.ss01.circled
 Encoding: 57646 57646 1936
-AltUni2: 002463.ffffffff.0 002783.ffffffff.0
+AltUni2: 002783.ffffffff.0 002463.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45602,7 +45602,7 @@ EndChar
 
 StartChar: six.ss01.circled
 Encoding: 57647 57647 1937
-AltUni2: 002465.ffffffff.0 002785.ffffffff.0
+AltUni2: 002785.ffffffff.0 002465.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45614,7 +45614,7 @@ EndChar
 
 StartChar: nine.ss01.circled
 Encoding: 57648 57648 1938
-AltUni2: 002468.ffffffff.0 002788.ffffffff.0
+AltUni2: 002788.ffffffff.0 002468.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2

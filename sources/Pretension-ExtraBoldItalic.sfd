@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1700438797
-ModificationTime: 1707703769
+ModificationTime: 1707762072
 PfmFamily: 17
 TTFWeight: 800
 TTFWidth: 5
@@ -1148,14 +1148,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "Italic" "4.000;git-a52131595;RSMS;Pretension-ExtraBoldItalic;featfreeze:tnum,ss01,cv01,cv05,cv10" "" "Version 4.000;git-a52131595" "" "Inter UI and Inter is a trademark of rsms." "rsms, Rasmus Andersson, Cristiano Sobral" "Rasmus Andersson, Cristiano Sobral" "" "https://rsms.me/" "https://rsms.me/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Pretension" "ExtraBold Italic"
-OtfFeatName: 'ss08' 1033 "Square quotes"
-OtfFeatName: 'ss07' 1033 "Square punctuation"
-OtfFeatName: 'ss06' 1033 "Squared characters"
-OtfFeatName: 'ss05' 1033 "Circled characters"
-OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
-OtfFeatName: 'ss03' 1033 "Round quotes & commas"
-OtfFeatName: 'ss02' 1033 "Disambiguation"
 OtfFeatName: 'ss01' 1033 "Open digits"
+OtfFeatName: 'ss02' 1033 "Disambiguation"
+OtfFeatName: 'ss03' 1033 "Round quotes & commas"
+OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
+OtfFeatName: 'ss05' 1033 "Circled characters"
+OtfFeatName: 'ss06' 1033 "Squared characters"
+OtfFeatName: 'ss07' 1033 "Square punctuation"
+OtfFeatName: 'ss08' 1033 "Square quotes"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1163,11 +1163,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1786 38 12
+WinInfo: 0 38 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
-BeginChars: 1114299 2889
+BeginChars: 1114299 2882
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -1698,7 +1698,6 @@ AnchorPoint: "Anchor-0" 681 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 2 65 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 381 403 2
 Kerns2: 2302 -116 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1487 -110 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1289 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1177 -197 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1170 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" A uni0302 hookabovecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
@@ -1715,7 +1714,6 @@ AnchorPoint: "Anchor-0" 681 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 2 65 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 381 403 2
 Kerns2: 2302 -116 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1487 -110 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1289 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1177 -197 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1170 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" A uni0302 tildecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
@@ -3572,7 +3570,6 @@ AnchorPoint: "Anchor-0" 554 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 95 69 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 254 403 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" E uni0302 hookabovecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
 EndChar
@@ -3589,7 +3586,6 @@ AnchorPoint: "Anchor-0" 554 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 95 69 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 254 403 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" E uni0302 tildecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
 EndChar
@@ -6811,7 +6807,6 @@ AnchorPoint: "Anchor-0" 507 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 282 76 N 1 0 0 1 0 0 3
-Refer: 2884 -1 N 1 0 0 1 545 0 2
 Kerns2: 2217 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 2011 -222 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1770 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1769 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1768 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1530 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1518 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1513 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1512 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1509 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1507 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1506 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1499 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1496 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1494 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1493 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1480 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1465 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1462 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1461 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1442 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1430 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1391 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1388 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1386 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1385 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1364 -72 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 483 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 482 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 481 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 479 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
 EndChar
@@ -8132,7 +8127,6 @@ AnchorPoint: "Anchor-0" 690 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 322 79 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 389 403 2
 Kerns2: 1514 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1063 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" O uni0302 hookabovecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
@@ -8149,7 +8143,6 @@ AnchorPoint: "Anchor-0" 690 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 322 79 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 389 403 2
 Kerns2: 1514 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1063 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" O uni0302 tildecomb
 Position2: "'cpsp' Capital Spacing in Latin lookup 0 subtable" dx=0 dy=0 dh=0 dv=0
@@ -11786,7 +11779,6 @@ AnchorPoint: "Anchor-0" 552 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 508 97 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 188 0 2
 Kerns2: 1038 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -150 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -150 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" a circumflexhookcomb.cn
 EndChar
@@ -11802,7 +11794,6 @@ AnchorPoint: "Anchor-0" 552 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 508 97 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 188 0 2
 Kerns2: 1038 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -150 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -150 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" a circumflextildecomb.cn
 EndChar
@@ -13186,7 +13177,6 @@ AnchorPoint: "Anchor-0" 555 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 567 100 N 1 0 0 1 0 0 2
-Refer: 2884 -1 N 1 0 0 1 1166 0 2
 Kerns2: 676 88 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 671 86 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" d uni030C
 EndChar
@@ -13947,7 +13937,6 @@ AnchorPoint: "Anchor-0" 539 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 584 101 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 169 0 2
 Kerns2: 2408 -226 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 692 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" e circumflexhookcomb.cn
 EndChar
@@ -13964,7 +13953,6 @@ AnchorPoint: "Anchor-0" 539 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 584 101 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 169 0 2
 Kerns2: 2408 -226 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 692 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" e circumflextildecomb.cn
 EndChar
@@ -14628,7 +14616,6 @@ AnchorPoint: "Anchor-0" 465 -421 basechar 0
 LayerCount: 2
 Fore
 Refer: 628 103 N 1 0 0 1 0 0 3
-Refer: 2885 -1 N 1 0 0 1 354 0 2
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" g commaaccentrotate.cn
 EndChar
 
@@ -16509,7 +16496,6 @@ AnchorPoint: "Anchor-0" 188 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 707 -1 N 1 0 0 1 0 0 2
-Refer: 2884 -1 N 1 0 0 1 445 0 2
 Kerns2: 2288 74 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1514 27 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 721 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 720 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 666 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 202 74 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'cv05' Character Variants 05 in Latin lookup 59 subtable" lcaron.ss02
 Substitution2: "'ss04' Style Set 4 in Latin lookup 50 subtable" lcaron.ss02
@@ -16781,7 +16767,6 @@ AnchorPoint: "Anchor-0" 247 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 722 57424 N 1 0 0 1 0 0 2
-Refer: 2884 -1 N 1 0 0 1 446 0 2
 Kerns2: 2288 74 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1514 27 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 721 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 720 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 666 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 202 74 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 EndChar
 
@@ -18143,7 +18128,6 @@ AnchorPoint: "Anchor-0" 531 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 761 111 N 1 0 0 1 0 0 3
-Refer: 2882 -1 N 1 0 0 1 165 0 2
 Kerns2: 2408 -226 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 692 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 677 83 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" o circumflexhookcomb.cn
 EndChar
@@ -18159,7 +18143,6 @@ AnchorPoint: "Anchor-0" 531 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 761 111 N 1 0 0 1 0 0 3
-Refer: 2883 -1 N 1 0 0 1 165 0 2
 Kerns2: 2408 -226 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 692 -93 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 474 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 423 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 422 -161 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" o circumflextildecomb.cn
 EndChar
@@ -20415,7 +20398,6 @@ AnchorPoint: "Anchor-0" 361 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 860 116 N 1 0 0 1 0 0 3
-Refer: 2884 -1 N 1 0 0 1 536 36 2
 Kerns2: 1487 -58 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 865 -115 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 864 -8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'cv13' Character Variants 13 in Latin lookup 66 subtable" tcaron.1
 Substitution2: "'salt' Stylistic Alternatives in Latin lookup 46 subtable" tcaron.1
@@ -20652,7 +20634,6 @@ AnchorPoint: "Anchor-0" 282 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 876 60934 N 1 0 0 1 0 0 3
-Refer: 2884 -1 N 1 0 0 1 457 36 2
 Kerns2: 1487 -58 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 865 -115 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 864 -8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 EndChar
 
@@ -32231,7 +32212,7 @@ EndChar
 
 StartChar: one.tf.ss01
 Encoding: 57468 57468 1341
-AltUni2: 000031.ffffffff.0 00e072.ffffffff.0
+AltUni2: 00e072.ffffffff.0 000031.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32261,7 +32242,7 @@ EndChar
 
 StartChar: three.1.tf
 Encoding: 57469 57469 1342
-AltUni2: 000033.ffffffff.0 00e06d.ffffffff.0 00e074.ffffffff.0
+AltUni2: 00e074.ffffffff.0 00e06d.ffffffff.0 000033.ffffffff.0
 Width: 1324
 GlyphClass: 2
 Flags: W
@@ -32275,7 +32256,7 @@ EndChar
 
 StartChar: four.tf.ss01
 Encoding: 57470 57470 1343
-AltUni2: 000034.ffffffff.0 00e075.ffffffff.0
+AltUni2: 00e075.ffffffff.0 000034.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32285,7 +32266,7 @@ EndChar
 
 StartChar: six.tf.ss01
 Encoding: 57471 57471 1344
-AltUni2: 000036.ffffffff.0 00e077.ffffffff.0
+AltUni2: 00e077.ffffffff.0 000036.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32295,7 +32276,7 @@ EndChar
 
 StartChar: nine.tf.ss01
 Encoding: 57472 57472 1345
-AltUni2: 000039.ffffffff.0 00e07a.ffffffff.0
+AltUni2: 00e07a.ffffffff.0 000039.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32605,11 +32586,11 @@ EndChar
 StartChar: hyphen.tf
 Encoding: 61012 61012 1363
 AltUni2: 00002d.ffffffff.0
-Width: 1324
+Width: 1000
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1430 -1 N 1 0 0 1 189 0 2
+Refer: 1430 -1 N 1 0 0 1 27 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" hyphen
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen
 EndChar
@@ -32617,11 +32598,11 @@ EndChar
 StartChar: hyphen.case.tf
 Encoding: 61013 61013 1364
 AltUni2: 00e088.ffffffff.0
-Width: 1321
+Width: 997
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1430 -1 N 1 0 0 1 213 154 2
+Refer: 1430 -1 N 1 0 0 1 51 154 2
 Kerns2: 1063 -156 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -25 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -105 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -39 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" hyphen.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen.case
@@ -45282,7 +45263,7 @@ EndChar
 
 StartChar: one.ss01.circled
 Encoding: 57644 57644 1903
-AltUni2: 002460.ffffffff.0 002780.ffffffff.0
+AltUni2: 002780.ffffffff.0 002460.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45294,7 +45275,7 @@ EndChar
 
 StartChar: three.1.circled
 Encoding: 57645 57645 1904
-AltUni2: 002462.ffffffff.0 002782.ffffffff.0
+AltUni2: 002782.ffffffff.0 002462.ffffffff.0
 Width: 2847
 GlyphClass: 2
 Flags: W
@@ -45308,7 +45289,7 @@ EndChar
 
 StartChar: four.ss01.circled
 Encoding: 57646 57646 1905
-AltUni2: 002463.ffffffff.0 002783.ffffffff.0
+AltUni2: 002783.ffffffff.0 002463.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45320,7 +45301,7 @@ EndChar
 
 StartChar: six.ss01.circled
 Encoding: 57647 57647 1906
-AltUni2: 002465.ffffffff.0 002785.ffffffff.0
+AltUni2: 002785.ffffffff.0 002465.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45332,7 +45313,7 @@ EndChar
 
 StartChar: nine.ss01.circled
 Encoding: 57648 57648 1907
-AltUni2: 002468.ffffffff.0 002788.ffffffff.0
+AltUni2: 002788.ffffffff.0 002468.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -66246,13 +66227,5 @@ SplineSet
  872 1577 l 1,9,-1
 EndSplineSet
 EndChar
-
-StartChar: circumflexhookcomb.cn
-Encoding: 1114292 -1 2882
-Width: 913
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-433 1209 m 1,0,-1
- 158 1209
+EndChars
+EndSplineFont
