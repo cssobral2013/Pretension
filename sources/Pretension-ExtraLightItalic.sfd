@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1700438797
-ModificationTime: 1707688137
+ModificationTime: 1707706406
 PfmFamily: 17
 TTFWeight: 200
 TTFWidth: 5
@@ -1148,14 +1148,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "Italic" "4.000;git-a52131595;RSMS;Pretension-ExtraLightItalic;featfreeze:tnum,ss01,cv01,cv05,cv10" "" "Version 4.000;git-a52131595" "" "Inter UI and Inter is a trademark of rsms." "rsms, Rasmus Andersson, Cristiano Sobral" "Rasmus Andersson, Cristiano Sobral" "" "https://rsms.me/" "https://rsms.me/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Pretension" "ExtraLight Italic"
-OtfFeatName: 'ss01' 1033 "Open digits"
-OtfFeatName: 'ss02' 1033 "Disambiguation"
-OtfFeatName: 'ss03' 1033 "Round quotes & commas"
-OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
-OtfFeatName: 'ss05' 1033 "Circled characters"
-OtfFeatName: 'ss06' 1033 "Squared characters"
-OtfFeatName: 'ss07' 1033 "Square punctuation"
 OtfFeatName: 'ss08' 1033 "Square quotes"
+OtfFeatName: 'ss07' 1033 "Square punctuation"
+OtfFeatName: 'ss06' 1033 "Squared characters"
+OtfFeatName: 'ss05' 1033 "Circled characters"
+OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
+OtfFeatName: 'ss03' 1033 "Round quotes & commas"
+OtfFeatName: 'ss02' 1033 "Disambiguation"
+OtfFeatName: 'ss01' 1033 "Open digits"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1163,7 +1163,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 798 38 12
+WinInfo: 2318 38 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
@@ -6803,7 +6803,7 @@ EndChar
 
 StartChar: Lcaron
 Encoding: 317 317 285
-Width: 1094
+Width: 1108
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 393 1490 basechar 0
@@ -7519,7 +7519,7 @@ EndChar
 
 StartChar: uni0376
 Encoding: 886 886 319
-Width: 1453
+Width: 1511
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 887 1490 basechar 0
@@ -17688,7 +17688,7 @@ EndChar
 
 StartChar: oslash
 Encoding: 248 248 764
-Width: 1141
+Width: 1140
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-4" 1046 542 basechar 0
@@ -18329,7 +18329,7 @@ EndChar
 
 StartChar: oslashacute
 Encoding: 511 511 797
-Width: 1141
+Width: 1140
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-4" 1046 542 basechar 0
@@ -31997,45 +31997,45 @@ EndChar
 StartChar: zero.tf
 Encoding: 57457 57457 1330
 AltUni2: 000030.ffffffff.0
-Width: 1321
+Width: 1324
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 818 1490 basechar 0
+AnchorPoint: "Anchor-1" 820 1490 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-573 -19 m 0,0,1
- 447 -19 447 -19 358.5 45.5 c 128,-1,2
- 270 110 270 110 223.5 230 c 128,-1,3
- 177 350 177 350 177 516 c 0,4,5
- 177 634 177 634 201.5 769 c 128,-1,6
- 226 904 226 904 275.5 1035 c 128,-1,7
- 325 1166 325 1166 401.5 1273.5 c 128,-1,8
- 478 1381 478 1381 581.5 1445 c 128,-1,9
- 685 1509 685 1509 817 1509 c 0,10,11
- 943 1509 943 1509 1031 1445 c 128,-1,12
- 1119 1381 1119 1381 1165.5 1261 c 128,-1,13
- 1212 1141 1212 1141 1212 975 c 0,14,15
- 1212 861 1212 861 1189 726.5 c 128,-1,16
- 1166 592 1166 592 1116.5 460.5 c 128,-1,17
- 1067 329 1067 329 992 220.5 c 128,-1,18
- 917 112 917 112 812.5 46.5 c 128,-1,19
- 708 -19 708 -19 573 -19 c 0,0,1
-576 66 m 0,20,21
- 693 66 693 66 782 127.5 c 128,-1,22
- 871 189 871 189 936 290 c 128,-1,23
- 1001 391 1001 391 1043 513 c 128,-1,24
- 1085 635 1085 635 1104.5 756.5 c 128,-1,25
- 1124 878 1124 878 1124 979 c 0,26,27
- 1124 1191 1124 1191 1043.5 1308 c 128,-1,28
- 963 1425 963 1425 815 1425 c 0,29,30
- 699 1425 699 1425 608.5 1363.5 c 128,-1,31
- 518 1302 518 1302 453.5 1200.5 c 128,-1,32
- 389 1099 389 1099 347 977.5 c 128,-1,33
- 305 856 305 856 285 734 c 128,-1,34
- 265 612 265 612 265 511 c 0,35,36
- 265 300 265 300 346 183 c 128,-1,37
- 427 66 427 66 576 66 c 0,20,21
+575 -19 m 0,0,1
+ 449 -19 449 -19 360.5 45.5 c 128,-1,2
+ 272 110 272 110 225.5 230 c 128,-1,3
+ 179 350 179 350 179 516 c 0,4,5
+ 179 634 179 634 203.5 769 c 128,-1,6
+ 228 904 228 904 277.5 1035 c 128,-1,7
+ 327 1166 327 1166 403.5 1273.5 c 128,-1,8
+ 480 1381 480 1381 583.5 1445 c 128,-1,9
+ 687 1509 687 1509 819 1509 c 0,10,11
+ 945 1509 945 1509 1033 1445 c 128,-1,12
+ 1121 1381 1121 1381 1167.5 1261 c 128,-1,13
+ 1214 1141 1214 1141 1214 975 c 0,14,15
+ 1214 861 1214 861 1191 726.5 c 128,-1,16
+ 1168 592 1168 592 1118.5 460.5 c 128,-1,17
+ 1069 329 1069 329 994 220.5 c 128,-1,18
+ 919 112 919 112 814.5 46.5 c 128,-1,19
+ 710 -19 710 -19 575 -19 c 0,0,1
+578 66 m 0,20,21
+ 695 66 695 66 784 127.5 c 128,-1,22
+ 873 189 873 189 938 290 c 128,-1,23
+ 1003 391 1003 391 1045 513 c 128,-1,24
+ 1087 635 1087 635 1106.5 756.5 c 128,-1,25
+ 1126 878 1126 878 1126 979 c 0,26,27
+ 1126 1191 1126 1191 1045.5 1308 c 128,-1,28
+ 965 1425 965 1425 817 1425 c 0,29,30
+ 701 1425 701 1425 610.5 1363.5 c 128,-1,31
+ 520 1302 520 1302 455.5 1200.5 c 128,-1,32
+ 391 1099 391 1099 349 977.5 c 128,-1,33
+ 307 856 307 856 287 734 c 128,-1,34
+ 267 612 267 612 267 511 c 0,35,36
+ 267 300 267 300 348 183 c 128,-1,37
+ 429 66 429 66 578 66 c 0,20,21
 EndSplineSet
 Substitution2: "'ss02' Style Set 2 in Latin lookup 48 subtable" zero.tf.slash
 Substitution2: "'zero' Slashed Zero in Latin lookup 42 subtable" zero.tf.slash
@@ -32074,13 +32074,13 @@ EndChar
 StartChar: two.tf
 Encoding: 57459 57459 1332
 AltUni2: 000032.ffffffff.0
-Width: 1321
+Width: 1324
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 826 1490 basechar 0
+AnchorPoint: "Anchor-1" 828 1490 basechar 0
 LayerCount: 2
 Fore
-Refer: 1314 -1 N 1 0 0 1 64 0 2
+Refer: 1314 -1 N 1 0 0 1 66 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" two
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" two
 EndChar
@@ -32118,11 +32118,11 @@ EndChar
 StartChar: five.tf
 Encoding: 57462 57462 1335
 AltUni2: 000035.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1318 -1 N 1 0 0 1 83 0 2
+Refer: 1318 -1 N 1 0 0 1 85 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" five
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" five
 EndChar
@@ -32144,11 +32144,11 @@ EndChar
 StartChar: seven.tf
 Encoding: 57464 57464 1337
 AltUni2: 000037.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1321 -1 N 1 0 0 1 113 0 2
+Refer: 1321 -1 N 1 0 0 1 115 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" seven
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven
 EndChar
@@ -32156,11 +32156,11 @@ EndChar
 StartChar: eight.tf
 Encoding: 57465 57465 1338
 AltUni2: 000038.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1322 -1 N 1 0 0 1 75 0 2
+Refer: 1322 -1 N 1 0 0 1 77 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" eight
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" eight
 EndChar
@@ -32181,126 +32181,126 @@ EndChar
 
 StartChar: zero.tf.slash
 Encoding: 57467 57467 1340
-Width: 1321
+Width: 1324
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 818 1490 basechar 0
+AnchorPoint: "Anchor-1" 820 1490 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-336 152 m 1,0,-1
- 291 210 l 1,1,-1
- 1049 1359 l 1,2,-1
- 1098 1310 l 1,3,-1
- 336 152 l 1,0,-1
-573 -19 m 0,4,5
- 447 -19 447 -19 358.5 45.5 c 128,-1,6
- 270 110 270 110 223.5 230 c 128,-1,7
- 177 350 177 350 177 516 c 0,8,9
- 177 634 177 634 201.5 769 c 128,-1,10
- 226 904 226 904 275.5 1035 c 128,-1,11
- 325 1166 325 1166 401.5 1273.5 c 128,-1,12
- 478 1381 478 1381 581.5 1445 c 128,-1,13
- 685 1509 685 1509 817 1509 c 0,14,15
- 943 1509 943 1509 1031 1445 c 128,-1,16
- 1119 1381 1119 1381 1165.5 1261 c 128,-1,17
- 1212 1141 1212 1141 1212 975 c 0,18,19
- 1212 861 1212 861 1189 726.5 c 128,-1,20
- 1166 592 1166 592 1116.5 460.5 c 128,-1,21
- 1067 329 1067 329 992 220.5 c 128,-1,22
- 917 112 917 112 812.5 46.5 c 128,-1,23
- 708 -19 708 -19 573 -19 c 0,4,5
-576 66 m 0,24,25
- 693 66 693 66 782 127.5 c 128,-1,26
- 871 189 871 189 936 290 c 128,-1,27
- 1001 391 1001 391 1043 513 c 128,-1,28
- 1085 635 1085 635 1104.5 756.5 c 128,-1,29
- 1124 878 1124 878 1124 979 c 0,30,31
- 1124 1191 1124 1191 1043.5 1308 c 128,-1,32
- 963 1425 963 1425 815 1425 c 0,33,34
- 699 1425 699 1425 608.5 1363.5 c 128,-1,35
- 518 1302 518 1302 453.5 1200.5 c 128,-1,36
- 389 1099 389 1099 347 977.5 c 128,-1,37
- 305 856 305 856 285 734 c 128,-1,38
- 265 612 265 612 265 511 c 0,39,40
- 265 300 265 300 346 183 c 128,-1,41
- 427 66 427 66 576 66 c 0,24,25
+338 152 m 1,0,-1
+ 293 210 l 1,1,-1
+ 1051 1359 l 1,2,-1
+ 1100 1310 l 1,3,-1
+ 338 152 l 1,0,-1
+575 -19 m 0,4,5
+ 449 -19 449 -19 360.5 45.5 c 128,-1,6
+ 272 110 272 110 225.5 230 c 128,-1,7
+ 179 350 179 350 179 516 c 0,8,9
+ 179 634 179 634 203.5 769 c 128,-1,10
+ 228 904 228 904 277.5 1035 c 128,-1,11
+ 327 1166 327 1166 403.5 1273.5 c 128,-1,12
+ 480 1381 480 1381 583.5 1445 c 128,-1,13
+ 687 1509 687 1509 819 1509 c 0,14,15
+ 945 1509 945 1509 1033 1445 c 128,-1,16
+ 1121 1381 1121 1381 1167.5 1261 c 128,-1,17
+ 1214 1141 1214 1141 1214 975 c 0,18,19
+ 1214 861 1214 861 1191 726.5 c 128,-1,20
+ 1168 592 1168 592 1118.5 460.5 c 128,-1,21
+ 1069 329 1069 329 994 220.5 c 128,-1,22
+ 919 112 919 112 814.5 46.5 c 128,-1,23
+ 710 -19 710 -19 575 -19 c 0,4,5
+578 66 m 0,24,25
+ 695 66 695 66 784 127.5 c 128,-1,26
+ 873 189 873 189 938 290 c 128,-1,27
+ 1003 391 1003 391 1045 513 c 128,-1,28
+ 1087 635 1087 635 1106.5 756.5 c 128,-1,29
+ 1126 878 1126 878 1126 979 c 0,30,31
+ 1126 1191 1126 1191 1045.5 1308 c 128,-1,32
+ 965 1425 965 1425 817 1425 c 0,33,34
+ 701 1425 701 1425 610.5 1363.5 c 128,-1,35
+ 520 1302 520 1302 455.5 1200.5 c 128,-1,36
+ 391 1099 391 1099 349 977.5 c 128,-1,37
+ 307 856 307 856 287 734 c 128,-1,38
+ 267 612 267 612 267 511 c 0,39,40
+ 267 300 267 300 348 183 c 128,-1,41
+ 429 66 429 66 578 66 c 0,24,25
 EndSplineSet
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 6 subtable" zero.tf uni0338
 EndChar
 
 StartChar: one.tf.ss01
 Encoding: 57468 57468 1341
-AltUni2: 00e072.ffffffff.0 000031.ffffffff.0
-Width: 1321
+AltUni2: 000031.ffffffff.0 00e072.ffffffff.0
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-152 0 m 1,0,-1
- 166 84 l 1,1,-1
- 1017 84 l 1,2,-1
- 1003 0 l 1,3,-1
- 152 0 l 1,0,-1
-551 0 m 1,4,-1
- 768 1307 l 1,5,-1
- 774 1299 l 1,6,7
- 730 1252 730 1252 672 1224 c 128,-1,8
- 614 1196 614 1196 550 1183.5 c 128,-1,9
- 486 1171 486 1171 422 1171 c 1,10,-1
- 436 1252 l 1,11,-1
- 442 1252 l 2,12,13
- 514 1252 514 1252 586 1276 c 128,-1,14
- 658 1300 658 1300 717.5 1352 c 128,-1,15
- 777 1404 777 1404 810 1490 c 1,16,-1
- 889 1490 l 1,17,-1
- 642 0 l 1,18,-1
- 551 0 l 1,4,-1
+154 0 m 1,0,-1
+ 168 84 l 1,1,-1
+ 1019 84 l 1,2,-1
+ 1005 0 l 1,3,-1
+ 154 0 l 1,0,-1
+553 0 m 1,4,-1
+ 770 1307 l 1,5,-1
+ 776 1299 l 1,6,7
+ 732 1252 732 1252 674 1224 c 128,-1,8
+ 616 1196 616 1196 552 1183.5 c 128,-1,9
+ 488 1171 488 1171 424 1171 c 1,10,-1
+ 438 1252 l 1,11,-1
+ 444 1252 l 2,12,13
+ 516 1252 516 1252 588 1276 c 128,-1,14
+ 660 1300 660 1300 719.5 1352 c 128,-1,15
+ 779 1404 779 1404 812 1490 c 1,16,-1
+ 891 1490 l 1,17,-1
+ 644 0 l 1,18,-1
+ 553 0 l 1,4,-1
 EndSplineSet
 EndChar
 
 StartChar: three.1.tf
 Encoding: 57469 57469 1342
-AltUni2: 00e074.ffffffff.0 00e06d.ffffffff.0 000033.ffffffff.0
-Width: 1321
+AltUni2: 000033.ffffffff.0 00e06d.ffffffff.0 00e074.ffffffff.0
+Width: 1324
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 815 1490 basechar 0
+AnchorPoint: "Anchor-1" 817 1490 basechar 0
 LayerCount: 2
 Fore
-Refer: 1326 -1 N 1 0 0 1 67 0 2
+Refer: 1326 -1 N 1 0 0 1 69 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" three.1
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" three.1
 EndChar
 
 StartChar: four.tf.ss01
 Encoding: 57470 57470 1343
-AltUni2: 00e075.ffffffff.0 000034.ffffffff.0
-Width: 1321
+AltUni2: 000034.ffffffff.0 00e075.ffffffff.0
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1327 57454 N 1 0 0 1 44 0 2
+Refer: 1327 57454 N 1 0 0 1 46 0 2
 EndChar
 
 StartChar: six.tf.ss01
 Encoding: 57471 57471 1344
-AltUni2: 00e077.ffffffff.0 000036.ffffffff.0
-Width: 1321
+AltUni2: 000036.ffffffff.0 00e077.ffffffff.0
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1328 57455 N 1 0 0 1 96 0 2
+Refer: 1328 57455 N 1 0 0 1 98 0 2
 EndChar
 
 StartChar: nine.tf.ss01
 Encoding: 57472 57472 1345
-AltUni2: 00e07a.ffffffff.0 000039.ffffffff.0
-Width: 1321
+AltUni2: 000039.ffffffff.0 00e07a.ffffffff.0
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1329 57456 N 1 0 0 1 97 0 2
+Refer: 1329 57456 N 1 0 0 1 99 0 2
 EndChar
 
 StartChar: comma.tf
@@ -32605,11 +32605,11 @@ EndChar
 StartChar: hyphen.tf
 Encoding: 61012 61012 1363
 AltUni2: 00002d.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1430 -1 N 1 0 0 1 231 0 2
+Refer: 1430 -1 N 1 0 0 1 233 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" hyphen
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen
 EndChar
@@ -32617,11 +32617,11 @@ EndChar
 StartChar: hyphen.case.tf
 Encoding: 61013 61013 1364
 AltUni2: 00e088.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1430 -1 N 1 0 0 1 249 111 2
+Refer: 1430 -1 N 1 0 0 1 251 111 2
 Kerns2: 1063 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" hyphen.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" hyphen.case
@@ -32630,11 +32630,11 @@ EndChar
 StartChar: less.tf
 Encoding: 61014 61014 1365
 AltUni2: 00003c.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1487 -1 N 1 0 0 1 60 0 2
+Refer: 1487 -1 N 1 0 0 1 62 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" less
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" less
 EndChar
@@ -32642,11 +32642,11 @@ EndChar
 StartChar: greater.tf
 Encoding: 61015 61015 1366
 AltUni2: 00003e.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1488 -1 N 1 0 0 1 -6 0 2
+Refer: 1488 -1 N 1 0 0 1 -4 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" greater
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater
 EndChar
@@ -32654,11 +32654,11 @@ EndChar
 StartChar: lessequal.tf
 Encoding: 61016 61016 1367
 AltUni2: 002264.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1489 -1 N 1 0 0 1 29 0 2
+Refer: 1489 -1 N 1 0 0 1 31 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" lessequal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" lessequal
 EndChar
@@ -32666,11 +32666,11 @@ EndChar
 StartChar: greaterequal.tf
 Encoding: 61017 61017 1368
 AltUni2: 002265.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1490 -1 N 1 0 0 1 29 0 2
+Refer: 1490 -1 N 1 0 0 1 31 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" greaterequal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greaterequal
 EndChar
@@ -32678,11 +32678,11 @@ EndChar
 StartChar: equal.tf
 Encoding: 61018 61018 1369
 AltUni2: 00003d.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1491 -1 N 1 0 0 1 28 0 2
+Refer: 1491 -1 N 1 0 0 1 30 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" equal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" equal
 EndChar
@@ -32690,11 +32690,11 @@ EndChar
 StartChar: notequal.tf
 Encoding: 61019 61019 1370
 AltUni2: 002260.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1492 -1 N 1 0 0 1 28 0 2
+Refer: 1492 -1 N 1 0 0 1 30 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" notequal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" notequal
 EndChar
@@ -32702,11 +32702,11 @@ EndChar
 StartChar: plus.tf
 Encoding: 61020 61020 1371
 AltUni2: 00002b.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1493 -1 N 1 0 0 1 27 0 2
+Refer: 1493 -1 N 1 0 0 1 29 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" plus
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plus
 EndChar
@@ -32726,11 +32726,11 @@ EndChar
 StartChar: multiply.tf
 Encoding: 61022 61022 1373
 AltUni2: 0000d7.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1495 -1 N 1 0 0 1 30 0 2
+Refer: 1495 -1 N 1 0 0 1 32 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" multiply
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" multiply
 EndChar
@@ -32738,11 +32738,11 @@ EndChar
 StartChar: divide.tf
 Encoding: 61023 61023 1374
 AltUni2: 0000f7.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1496 -1 N 1 0 0 1 28 0 2
+Refer: 1496 -1 N 1 0 0 1 30 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" divide
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" divide
 EndChar
@@ -32750,11 +32750,11 @@ EndChar
 StartChar: plusminus.tf
 Encoding: 61024 61024 1375
 AltUni2: 0000b1.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1497 -1 N 1 0 0 1 28 0 2
+Refer: 1497 -1 N 1 0 0 1 30 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" plusminus
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plusminus
 EndChar
@@ -32762,11 +32762,11 @@ EndChar
 StartChar: approxequal.tf
 Encoding: 61025 61025 1376
 AltUni2: 002248.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1498 -1 N 1 0 0 1 43 0 2
+Refer: 1498 -1 N 1 0 0 1 45 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" approxequal
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" approxequal
 EndChar
@@ -32774,11 +32774,11 @@ EndChar
 StartChar: asciitilde.tf
 Encoding: 61026 61026 1377
 AltUni2: 00007e.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1499 -1 N 1 0 0 1 28 0 2
+Refer: 1499 -1 N 1 0 0 1 30 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" asciitilde
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" asciitilde
 EndChar
@@ -32786,11 +32786,11 @@ EndChar
 StartChar: asterisk.tf
 Encoding: 61027 61027 1378
 AltUni2: 00002a.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1518 -1 N 1 0 0 1 176 0 2
+Refer: 1518 -1 N 1 0 0 1 178 0 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" asterisk
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" asterisk
 EndChar
@@ -32798,11 +32798,11 @@ EndChar
 StartChar: less.case.tf
 Encoding: 61028 61028 1379
 AltUni2: 00e097.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1487 -1 N 1 0 0 1 87 164 2
+Refer: 1487 -1 N 1 0 0 1 89 164 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" less.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" less.case
 EndChar
@@ -32810,11 +32810,11 @@ EndChar
 StartChar: greater.case.tf
 Encoding: 61029 61029 1380
 AltUni2: 00e098.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1488 -1 N 1 0 0 1 21 164 2
+Refer: 1488 -1 N 1 0 0 1 23 164 2
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" greater.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater.case
 EndChar
@@ -32822,11 +32822,11 @@ EndChar
 StartChar: lessequal.case.tf
 Encoding: 61030 61030 1381
 AltUni2: 00e099.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1489 -1 N 1 0 0 1 52 139 2
+Refer: 1489 -1 N 1 0 0 1 54 139 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" lessequal.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" lessequal.case
@@ -32835,11 +32835,11 @@ EndChar
 StartChar: greaterequal.case.tf
 Encoding: 61031 61031 1382
 AltUni2: 00e09a.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1490 -1 N 1 0 0 1 52 139 2
+Refer: 1490 -1 N 1 0 0 1 54 139 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" greaterequal.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greaterequal.case
@@ -32848,11 +32848,11 @@ EndChar
 StartChar: equal.case.tf
 Encoding: 61032 61032 1383
 AltUni2: 00e09b.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1491 -1 N 1 0 0 1 55 163 2
+Refer: 1491 -1 N 1 0 0 1 57 163 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" equal.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" equal.case
@@ -32861,11 +32861,11 @@ EndChar
 StartChar: notequal.case.tf
 Encoding: 61033 61033 1384
 AltUni2: 00e09c.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1492 -1 N 1 0 0 1 55 163 2
+Refer: 1492 -1 N 1 0 0 1 57 163 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" notequal.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" notequal.case
@@ -32874,11 +32874,11 @@ EndChar
 StartChar: plus.case.tf
 Encoding: 61034 61034 1385
 AltUni2: 00e09d.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1493 -1 N 1 0 0 1 54 163 2
+Refer: 1493 -1 N 1 0 0 1 56 163 2
 Kerns2: 1063 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" plus.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plus.case
@@ -32887,11 +32887,11 @@ EndChar
 StartChar: minus.case.tf
 Encoding: 61035 61035 1386
 AltUni2: 00e09e.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1494 -1 N 1 0 0 1 55 163 2
+Refer: 1494 -1 N 1 0 0 1 57 163 2
 Kerns2: 1063 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" minus.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" minus.case
@@ -32900,11 +32900,11 @@ EndChar
 StartChar: multiply.case.tf
 Encoding: 61036 61036 1387
 AltUni2: 00e09f.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1495 -1 N 1 0 0 1 57 164 2
+Refer: 1495 -1 N 1 0 0 1 59 164 2
 Kerns2: 1289 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1063 -151 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" multiply.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" multiply.case
@@ -32913,11 +32913,11 @@ EndChar
 StartChar: divide.case.tf
 Encoding: 61037 61037 1388
 AltUni2: 00e0a0.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1496 -1 N 1 0 0 1 55 163 2
+Refer: 1496 -1 N 1 0 0 1 57 163 2
 Kerns2: 1063 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" divide.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" divide.case
@@ -32926,11 +32926,11 @@ EndChar
 StartChar: plusminus.case.tf
 Encoding: 61038 61038 1389
 AltUni2: 00e0a1.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1497 -1 N 1 0 0 1 49 128 2
+Refer: 1497 -1 N 1 0 0 1 51 128 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" plusminus.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" plusminus.case
@@ -32939,11 +32939,11 @@ EndChar
 StartChar: approxequal.case.tf
 Encoding: 61039 61039 1390
 AltUni2: 00e0a2.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1498 -1 N 1 0 0 1 70 163 2
+Refer: 1498 -1 N 1 0 0 1 72 163 2
 Kerns2: 1289 -81 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" approxequal.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" approxequal.case
@@ -32952,11 +32952,11 @@ EndChar
 StartChar: asciitilde.case.tf
 Encoding: 61040 61040 1391
 AltUni2: 00e0a3.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1499 -1 N 1 0 0 1 54 158 2
+Refer: 1499 -1 N 1 0 0 1 56 158 2
 Kerns2: 1063 -139 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1045 -104 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1043 -221 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1012 -162 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 414 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 413 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" asciitilde.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" asciitilde.case
@@ -32965,11 +32965,11 @@ EndChar
 StartChar: asterisk.case.tf
 Encoding: 61041 61041 1392
 AltUni2: 00e0a4.ffffffff.0
-Width: 1321
+Width: 1324
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1519 -1 N 1 0 0 1 63 0 2
+Refer: 1519 -1 N 1 0 0 1 65 0 2
 Kerns2: 1289 -69 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 1063 -151 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
 Substitution2: "'pnum' Proportional Numbers in Latin lookup 40 subtable" asterisk.case
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" asterisk.case
@@ -34064,7 +34064,7 @@ EndChar
 
 StartChar: uni2015
 Encoding: 8213 8213 1434
-Width: 2050
+Width: 2049
 Flags: W
 LayerCount: 2
 Fore
@@ -44891,7 +44891,7 @@ EndChar
 
 StartChar: uni24BF
 Encoding: 9407 9407 1875
-Width: 2846
+Width: 2847
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 1902 1490 basechar 0
@@ -45090,7 +45090,7 @@ EndChar
 
 StartChar: uni24CD
 Encoding: 9421 9421 1889
-Width: 2846
+Width: 2847
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 1585 1490 basechar 0
@@ -45282,7 +45282,7 @@ EndChar
 
 StartChar: one.ss01.circled
 Encoding: 57644 57644 1903
-AltUni2: 002780.ffffffff.0 002460.ffffffff.0
+AltUni2: 002460.ffffffff.0 002780.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45294,7 +45294,7 @@ EndChar
 
 StartChar: three.1.circled
 Encoding: 57645 57645 1904
-AltUni2: 002782.ffffffff.0 002462.ffffffff.0
+AltUni2: 002462.ffffffff.0 002782.ffffffff.0
 Width: 2847
 GlyphClass: 2
 Flags: W
@@ -45308,7 +45308,7 @@ EndChar
 
 StartChar: four.ss01.circled
 Encoding: 57646 57646 1905
-AltUni2: 002783.ffffffff.0 002463.ffffffff.0
+AltUni2: 002463.ffffffff.0 002783.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45320,7 +45320,7 @@ EndChar
 
 StartChar: six.ss01.circled
 Encoding: 57647 57647 1906
-AltUni2: 002785.ffffffff.0 002465.ffffffff.0
+AltUni2: 002465.ffffffff.0 002785.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -45332,7 +45332,7 @@ EndChar
 
 StartChar: nine.ss01.circled
 Encoding: 57648 57648 1907
-AltUni2: 002788.ffffffff.0 002468.ffffffff.0
+AltUni2: 002468.ffffffff.0 002788.ffffffff.0
 Width: 2847
 Flags: W
 LayerCount: 2
@@ -64518,7 +64518,7 @@ EndChar
 
 StartChar: uni1FEF.tonos
 Encoding: 61081 61081 2794
-Width: 452
+Width: 347
 Flags: W
 LayerCount: 2
 Fore
