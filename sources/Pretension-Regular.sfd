@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1700438797
-ModificationTime: 1707761704
+ModificationTime: 1707789492
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1149,14 +1149,14 @@ ShortTable: maxp 16
   1
 EndShort
 LangName: 1033 "" "" "" "4.000;git-a52131595;RSMS;Pretension-Regular;featfreeze:tnum,ss01,cv01,cv05,cv10" "" "Version 4.000;git-a52131595" "" "Inter UI and Inter is a trademark of rsms." "rsms, Rasmus Andersson, Cristiano Sobral" "Rasmus Andersson, Cristiano Sobral" "" "https://rsms.me/" "https://rsms.me/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss08' 1033 "Square quotes"
-OtfFeatName: 'ss07' 1033 "Square punctuation"
-OtfFeatName: 'ss06' 1033 "Squared characters"
-OtfFeatName: 'ss05' 1033 "Circled characters"
-OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
-OtfFeatName: 'ss03' 1033 "Round quotes & commas"
-OtfFeatName: 'ss02' 1033 "Disambiguation"
 OtfFeatName: 'ss01' 1033 "Open digits"
+OtfFeatName: 'ss02' 1033 "Disambiguation"
+OtfFeatName: 'ss03' 1033 "Round quotes & commas"
+OtfFeatName: 'ss04' 1033 "Disambiguation (no slashed zero)"
+OtfFeatName: 'ss05' 1033 "Circled characters"
+OtfFeatName: 'ss06' 1033 "Squared characters"
+OtfFeatName: 'ss07' 1033 "Square punctuation"
+OtfFeatName: 'ss08' 1033 "Square quotes"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -1164,7 +1164,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 12
+WinInfo: 76 38 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mkmk' Mark to Mark in Latin lookup 4 subtable"
@@ -32133,17 +32133,13 @@ Fore
 SplineSet
 434 0 m 1,0,-1
  434 1197 l 1,1,-1
- 452 1181 l 1,2,3
- 420 1163 420 1163 375.5 1148 c 128,-1,4
- 331 1133 331 1133 269 1123.5 c 128,-1,5
- 207 1114 207 1114 122 1114 c 1,6,-1
- 122 1267 l 1,7,-1
- 138 1267 l 2,8,9
- 223 1267 223 1267 288 1293 c 128,-1,10
- 353 1319 353 1319 396 1369 c 128,-1,11
- 439 1419 439 1419 457 1490 c 1,12,-1
- 614 1490 l 1,13,-1
- 614 0 l 1,14,-1
+ 464 1104 l 1,2,-1
+ 62 1104 l 1,3,-1
+ 62 1267 l 1,4,-1
+ 198 1267 l 2,5,6
+ 400 1267 400 1267 457 1490 c 1,7,-1
+ 614 1490 l 1,8,-1
+ 614 0 l 1,9,-1
  434 0 l 1,0,-1
 EndSplineSet
 Substitution2: "'ss06' Style Set 6 in Latin lookup 52 subtable" one.ss01.squared
@@ -32538,7 +32534,7 @@ EndChar
 
 StartChar: one.tf.ss01
 Encoding: 57468 57468 1372
-AltUni2: 000031.ffffffff.0 00e072.ffffffff.0
+AltUni2: 00e072.ffffffff.0 000031.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32549,26 +32545,22 @@ SplineSet
  1144 160 l 1,2,-1
  1144 0 l 1,3,-1
  223 0 l 1,0,-1
-611 0 m 1,4,-1
- 611 1197 l 1,5,-1
- 629 1181 l 1,6,7
- 597 1163 597 1163 552.5 1148 c 128,-1,8
- 508 1133 508 1133 446 1123.5 c 128,-1,9
- 384 1114 384 1114 299 1114 c 1,10,-1
- 299 1267 l 1,11,-1
- 315 1267 l 2,12,13
- 400 1267 400 1267 465 1293 c 128,-1,14
- 530 1319 530 1319 573 1369 c 128,-1,15
- 616 1419 616 1419 634 1490 c 1,16,-1
- 791 1490 l 1,17,-1
- 791 0 l 1,18,-1
- 611 0 l 1,4,-1
+611 0 m 5,4,-1
+ 611 1197 l 5,5,-1
+ 641 1104 l 5,6,7
+ 239 1104 l 5,8,-1
+ 239 1267 l 5,9,-1
+ 375 1267 l 6,10,11
+ 577 1267 577 1267 634 1490 c 5,12,-1
+ 791 1490 l 5,13,-1
+ 791 0 l 5,14,-1
+ 611 0 l 5,4,-1
 EndSplineSet
 EndChar
 
 StartChar: three.1.tf
 Encoding: 57469 57469 1373
-AltUni2: 000033.ffffffff.0 00e06d.ffffffff.0 00e074.ffffffff.0
+AltUni2: 00e074.ffffffff.0 00e06d.ffffffff.0 000033.ffffffff.0
 Width: 1324
 GlyphClass: 2
 Flags: W
@@ -32582,7 +32574,7 @@ EndChar
 
 StartChar: four.tf.ss01
 Encoding: 57470 57470 1374
-AltUni2: 000034.ffffffff.0 00e075.ffffffff.0
+AltUni2: 00e075.ffffffff.0 000034.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32592,7 +32584,7 @@ EndChar
 
 StartChar: six.tf.ss01
 Encoding: 57471 57471 1375
-AltUni2: 000036.ffffffff.0 00e077.ffffffff.0
+AltUni2: 00e077.ffffffff.0 000036.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -32602,7 +32594,7 @@ EndChar
 
 StartChar: nine.tf.ss01
 Encoding: 57472 57472 1376
-AltUni2: 000039.ffffffff.0 00e07a.ffffffff.0
+AltUni2: 00e07a.ffffffff.0 000039.ffffffff.0
 Width: 1324
 Flags: W
 LayerCount: 2
@@ -38108,16 +38100,13 @@ Fore
 SplineSet
 289 886 m 1,0,-1
  289 1487 l 1,1,-1
- 300 1479 l 1,2,3
- 277 1461 277 1461 244.5 1450.5 c 128,-1,4
- 212 1440 212 1440 174 1435 c 128,-1,5
- 136 1430 136 1430 93 1430 c 1,6,-1
- 93 1564 l 1,7,-1
- 108 1564 l 2,8,9
- 183 1564 183 1564 239.5 1598.5 c 128,-1,10
- 296 1633 296 1633 312 1698 c 1,11,-1
- 460 1698 l 1,12,-1
- 460 886 l 1,13,-1
+ 300 1430 l 1,2,3
+ 93 1430 l 1,4,-1
+ 93 1564 l 1,5,-1
+ 148 1564 l 2,6,7
+ 279 1564 279 1564 312 1698 c 1,8,-1
+ 460 1698 l 1,9,-1
+ 460 886 l 1,10,-1
  289 886 l 1,0,-1
 EndSplineSet
 EndChar
@@ -39439,16 +39428,13 @@ Fore
 SplineSet
 254 0 m 1,0,-1
  254 631 l 1,1,-1
- 264 623 l 1,2,3
- 250 607 250 607 222.5 593 c 128,-1,4
- 195 579 195 579 158.5 570.5 c 128,-1,5
- 122 562 122 562 80 562 c 1,6,-1
- 80 685 l 1,7,-1
- 92 685 l 2,8,9
- 158 685 158 685 207.5 721 c 128,-1,10
- 257 757 257 757 274 812 c 1,11,-1
- 409 812 l 1,12,-1
- 409 0 l 1,13,-1
+ 294 562 l 1,2,3
+ 50 562 l 1,4,-1
+ 50 685 l 1,5,-1
+ 132 685 l 2,6,7
+ 235 685 235 685 274 812 c 1,8,-1
+ 409 812 l 1,9,-1
+ 409 0 l 1,10,-1
  254 0 l 1,0,-1
 EndSplineSet
 EndChar
@@ -45564,7 +45550,7 @@ EndChar
 
 StartChar: one.ss01.circled
 Encoding: 57644 57644 1934
-AltUni2: 002460.ffffffff.0 002780.ffffffff.0
+AltUni2: 002780.ffffffff.0 002460.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45576,7 +45562,7 @@ EndChar
 
 StartChar: three.1.circled
 Encoding: 57645 57645 1935
-AltUni2: 002462.ffffffff.0 002782.ffffffff.0
+AltUni2: 002782.ffffffff.0 002462.ffffffff.0
 Width: 2846
 GlyphClass: 2
 Flags: W
@@ -45590,7 +45576,7 @@ EndChar
 
 StartChar: four.ss01.circled
 Encoding: 57646 57646 1936
-AltUni2: 002463.ffffffff.0 002783.ffffffff.0
+AltUni2: 002783.ffffffff.0 002463.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45602,7 +45588,7 @@ EndChar
 
 StartChar: six.ss01.circled
 Encoding: 57647 57647 1937
-AltUni2: 002465.ffffffff.0 002785.ffffffff.0
+AltUni2: 002785.ffffffff.0 002465.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -45614,7 +45600,7 @@ EndChar
 
 StartChar: nine.ss01.circled
 Encoding: 57648 57648 1938
-AltUni2: 002468.ffffffff.0 002788.ffffffff.0
+AltUni2: 002788.ffffffff.0 002468.ffffffff.0
 Width: 2846
 Flags: W
 LayerCount: 2
@@ -46473,6 +46459,7 @@ LayerCount: 2
 Fore
 Refer: 1894 11036 N 1 0 0 1 0 0 3
 Refer: 1356 57452 N 1 0 0 1 980 0 2
+LCarets2: 1 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 9 subtable" one.ss01 uni20DE
 EndChar
 
