@@ -1,0 +1,115 @@
+{
+glyphname = Gehookstrokecyr;
+layers = (
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{909, 1490}";
+}
+);
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+alignment = -1;
+pos = (122,0);
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (36,0);
+ref = crossbar.uc;
+},
+{
+alignment = -1;
+pos = (326,0);
+ref = _part.cyrtic_hook;
+}
+);
+width = 1185;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{873, 1490}";
+}
+);
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+alignment = -1;
+pos = (86,0);
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (49,0);
+ref = crossbar.uc;
+},
+{
+alignment = -1;
+pos = (219,0);
+ref = _part.cyrtic_hook;
+}
+);
+width = 1164;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{909, 1490}";
+}
+);
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+alignment = -1;
+pos = (48,0);
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = crossbar.uc;
+},
+{
+alignment = -1;
+pos = (104,0);
+ref = _part.cyrtic_hook;
+}
+);
+width = 1142;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{852, 1490}";
+}
+);
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+alignment = -1;
+pos = (9,0);
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (76,0);
+ref = crossbar.uc;
+},
+{
+alignment = -1;
+pos = (76,0);
+ref = _part.cyrtic_hook;
+}
+);
+width = 1107;
+}
+);
+rightKerningGroup = T;
+unicode = 1274;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+width = 0;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+width = 0;
+}
+);
+unicode = 8203;
+}

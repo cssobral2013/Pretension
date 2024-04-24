@@ -1,0 +1,64 @@
+{
+glyphname = triangularbullet;
+layers = (
+{
+layerId = "30DB1A31-A6FD-462E-A165-656579CC7601";
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,268,l),
+(160,920,l),
+(698,594,l)
+);
+}
+);
+width = 784;
+},
+{
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+shapes = (
+{
+closed = 1;
+nodes = (
+(244,268,l),
+(244,920,l),
+(782,594,l)
+);
+}
+);
+width = 930;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,268,l),
+(334,920,l),
+(872,594,l)
+);
+}
+);
+width = 1088;
+},
+{
+layerId = "B109C6DD-98CC-498D-964F-904F22F997F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(410,396,l),
+(410,792,l),
+(738,594,l)
+);
+}
+);
+width = 1024;
+}
+);
+leftKerningGroup = bullet2;
+rightKerningGroup = bullet;
+unicode = 8227;
+}

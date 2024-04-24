@@ -1,0 +1,79 @@
+{
+glyphname = LLwelsh;
+layers = (
+{
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+alignment = -1;
+pos = (96,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (634,0);
+ref = L;
+}
+);
+width = 2120;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{970, 1490}";
+},
+{
+name = m.uni0347;
+position = "{1026, 0}";
+}
+);
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (521,0);
+ref = L;
+}
+);
+width = 1831;
+},
+{
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (398,0);
+ref = L;
+}
+);
+width = 1518;
+},
+{
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+alignment = -1;
+pos = (-58,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (258,0);
+ref = L;
+}
+);
+width = 1134;
+}
+);
+unicode = 7930;
+}

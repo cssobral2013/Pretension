@@ -1,0 +1,172 @@
+{
+glyphname = Q;
+rightMetricsKey = "=43";
+layers = (
+{
+anchors = (
+{
+name = m.uni0347;
+position = "{780, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{1027, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1626, 744}";
+}
+);
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+rightMetricsKey = "=-8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(994,277,o),
+(1230,356,o),
+(1584,356,cs),
+(1604,356,l),
+(1545,0,l),
+(1004,0,ls),
+(905,0,o),
+(806,-22,o),
+(706,-22,c)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1628;
+},
+{
+anchors = (
+{
+name = m.uni0347;
+position = "{691, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{937, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1548, 893}";
+}
+);
+guides = (
+{
+position = "{0, 1490}";
+}
+);
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(968.052,202,o),
+(1159.296,268,o),
+(1420.296,268,cs),
+(1568.296,268,l),
+(1517,0,l),
+(990,0,ls),
+(894,0,o),
+(798.252,-22,o),
+(702.252,-22,c)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1657;
+},
+{
+anchors = (
+{
+name = m.uni0347;
+position = "{780, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{1027, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1626, 744}";
+}
+);
+guides = (
+{
+position = "{0, 1490}";
+}
+);
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+closed = 1;
+nodes = (
+(925.866,120,o),
+(1066.474,172,o),
+(1226.474,172,cs),
+(1514.474,172,l),
+(1486,0,l),
+(974,0,ls),
+(883,0,o),
+(789.358,-22,o),
+(698.358,-22,c)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1620;
+},
+{
+anchors = (
+{
+name = m.uni0347;
+position = "{739, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{986, 1490}";
+},
+{
+name = m.uni0328_4;
+position = "{1532, 744}";
+}
+);
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+closed = 1;
+nodes = (
+(721,25,o),
+(829,46,o),
+(959,46,cs),
+(1412,46,l),
+(1404,0,l),
+(916,0,ls),
+(817,0,o),
+(721,-22,o),
+(622,-20,c)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1530;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = D;
+unicode = 81;
+}

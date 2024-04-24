@@ -1,0 +1,52 @@
+{
+glyphname = tilde;
+layers = (
+{
+layerId = "30DB1A31-A6FD-462E-A165-656579CC7601";
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+}
+);
+width = 1008;
+},
+{
+anchors = (
+{
+name = t.uni0302;
+position = "{515, 1534}";
+}
+);
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+}
+);
+width = 1003;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+}
+);
+width = 997;
+},
+{
+layerId = "B109C6DD-98CC-498D-964F-904F22F997F9";
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+}
+);
+width = 957;
+}
+);
+unicode = 732;
+}

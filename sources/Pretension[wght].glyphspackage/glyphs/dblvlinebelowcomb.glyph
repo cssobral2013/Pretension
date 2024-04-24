@@ -1,0 +1,70 @@
+{
+glyphname = dblvlinebelowcomb;
+layers = (
+{
+layerId = "30DB1A31-A6FD-462E-A165-656579CC7601";
+shapes = (
+{
+alignment = -1;
+pos = (-1088,-1656);
+ref = verticallinemod;
+},
+{
+alignment = -1;
+pos = (-678,-1650);
+ref = verticallinemod;
+}
+);
+width = 0;
+},
+{
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+shapes = (
+{
+alignment = -1;
+pos = (-975,-1648);
+ref = verticallinemod;
+},
+{
+alignment = -1;
+pos = (-627,-1645);
+ref = verticallinemod;
+}
+);
+width = 0;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+shapes = (
+{
+alignment = -1;
+pos = (-852,-1640);
+ref = verticallinemod;
+},
+{
+alignment = -1;
+pos = (-572,-1640);
+ref = verticallinemod;
+}
+);
+width = 0;
+},
+{
+layerId = "B109C6DD-98CC-498D-964F-904F22F997F9";
+shapes = (
+{
+alignment = -1;
+pos = (-712,-1632);
+ref = verticallinemod;
+},
+{
+alignment = -1;
+pos = (-510,-1634);
+ref = verticallinemod;
+}
+);
+width = 0;
+}
+);
+unicode = 840;
+}

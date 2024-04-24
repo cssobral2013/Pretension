@@ -1,0 +1,92 @@
+{
+glyphname = Zhedieresiscyr.ss07;
+layers = (
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{1377, 1941}";
+}
+);
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (539,403);
+ref = dieresiscomb.ss07;
+}
+);
+width = 2293;
+},
+{
+anchors = (
+{
+name = t.uni0302;
+position = "{1333, 1941}";
+}
+);
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (495,403);
+ref = dieresiscomb.ss07;
+}
+);
+width = 2115;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{1377, 1941}";
+}
+);
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (447,403);
+ref = dieresiscomb.ss07;
+}
+);
+width = 1923;
+},
+{
+anchors = (
+{
+name = m.uni0302_1;
+position = "{1275, 1849}";
+}
+);
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+alignment = -1;
+ref = Zhecyr;
+},
+{
+alignment = -1;
+pos = (377,403);
+ref = dieresiscomb.ss07;
+}
+);
+width = 1756;
+}
+);
+leftKerningGroup = X2;
+rightKerningGroup = X;
+unicode = 57999;
+}

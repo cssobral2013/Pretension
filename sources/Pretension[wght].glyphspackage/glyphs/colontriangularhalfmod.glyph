@@ -1,0 +1,66 @@
+{
+glyphname = colontriangularhalfmod;
+layers = (
+{
+layerId = "30DB1A31-A6FD-462E-A165-656579CC7601";
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,1082,l),
+(517,1082,l),
+(327,776,l),
+(301,776,l)
+);
+}
+);
+width = 631;
+},
+{
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,1082,l),
+(462,1082,l),
+(301,816,l),
+(277,816,l)
+);
+}
+);
+width = 576;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,1082,l),
+(403,1082,l),
+(272,860,l),
+(250,860,l)
+);
+}
+);
+width = 517;
+},
+{
+layerId = "B109C6DD-98CC-498D-964F-904F22F997F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,1082,l),
+(321,1082,l),
+(225,914,l),
+(207,914,l)
+);
+}
+);
+width = 425;
+}
+);
+unicode = 721;
+}

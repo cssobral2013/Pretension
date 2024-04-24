@@ -1,0 +1,70 @@
+{
+glyphname = colonraisedmod.ss07;
+layers = (
+{
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+alignment = -1;
+pos = (72,430);
+ref = period.ss07;
+},
+{
+alignment = -1;
+pos = (184,1106);
+ref = period.ss07;
+}
+);
+width = 655;
+},
+{
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+alignment = -1;
+pos = (72,432);
+ref = period.ss07;
+},
+{
+alignment = -1;
+pos = (196,1183);
+ref = period.ss07;
+}
+);
+width = 590;
+},
+{
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+alignment = -1;
+pos = (72,435);
+ref = period.ss07;
+},
+{
+alignment = -1;
+pos = (210,1266);
+ref = period.ss07;
+}
+);
+width = 520;
+},
+{
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+alignment = -1;
+pos = (73,436);
+ref = period.ss07;
+},
+{
+alignment = -1;
+pos = (233,1405);
+ref = period.ss07;
+}
+);
+width = 478;
+}
+);
+unicode = 58042;
+}

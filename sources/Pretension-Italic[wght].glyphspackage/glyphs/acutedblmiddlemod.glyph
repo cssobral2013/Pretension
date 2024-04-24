@@ -1,0 +1,76 @@
+{
+glyphname = acutedblmiddlemod;
+layers = (
+{
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+alignment = -1;
+pos = (569,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (116,0);
+ref = acutecomb;
+}
+);
+width = 1291;
+},
+{
+anchors = (
+{
+name = t.uni0302;
+position = "{484, 1545}";
+}
+);
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+alignment = -1;
+pos = (512,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (134,0);
+ref = acutecomb;
+}
+);
+width = 1162;
+},
+{
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+alignment = -1;
+pos = (450,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (153,0);
+ref = acutecomb;
+}
+);
+width = 1022;
+},
+{
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+alignment = -1;
+pos = (352,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (196,0);
+ref = acutecomb;
+}
+);
+width = 862;
+}
+);
+unicode = 758;
+}

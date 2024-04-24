@@ -1,0 +1,65 @@
+{
+glyphname = _part.crossbar_compact_rext;
+layers = (
+{
+layerId = "30DB1A31-A6FD-462E-A165-656579CC7601";
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,672,l),
+(128,768,l),
+(910,768,l),
+(910,672,l)
+);
+}
+);
+width = 1038;
+},
+{
+layerId = "9958C6BA-7FC1-41C8-B3E0-9B3AF71AFF69";
+shapes = (
+{
+closed = 1;
+nodes = (
+(131,662,l),
+(131,779,l),
+(846,779,l),
+(846,662,l)
+);
+}
+);
+width = 977;
+},
+{
+layerId = "1B8D64CA-D7DF-4852-939C-A0B9329902C0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,651,l),
+(134,790,l),
+(777,790,l),
+(777,651,l)
+);
+}
+);
+width = 911;
+},
+{
+layerId = "B109C6DD-98CC-498D-964F-904F22F997F9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,698,l),
+(116,744,l),
+(798,744,l),
+(798,698,l)
+);
+}
+);
+width = 786;
+}
+);
+}

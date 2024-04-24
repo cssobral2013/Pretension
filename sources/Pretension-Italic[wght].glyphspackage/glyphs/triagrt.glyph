@@ -1,0 +1,62 @@
+{
+glyphname = triagrt;
+layers = (
+{
+layerId = "7120DA8A-778D-4421-9957-14EBB73F7FEE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,-186,l),
+(406,1676,l),
+(1915,744,l)
+);
+}
+);
+width = 1999;
+},
+{
+layerId = "496E469D-EE15-4086-9FDA-F7D1A66ADFFB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,-186,l),
+(384,1676,l),
+(1856,744,l)
+);
+}
+);
+width = 1925;
+},
+{
+layerId = "C6CF8F4D-8996-4F76-ABC0-77690A781072";
+shapes = (
+{
+closed = 1;
+nodes = (
+(52,-186,l),
+(360,1676,l),
+(1792,744,l)
+);
+}
+);
+width = 1844;
+},
+{
+layerId = "CFE5CAE0-9991-40C5-8AD5-14528CBB0784";
+shapes = (
+{
+closed = 1;
+nodes = (
+(14,-186,l),
+(322,1676,l),
+(1705,744,l)
+);
+}
+);
+width = 1727;
+}
+);
+unicode = (9654,9658);
+}
